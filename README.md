@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8037ff&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Alec+Ikawa;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8037ff&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Vitor+Lippi;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 ### 👨‍💻 Sobre mim:
 Olá! Me chamo **Vitor Lippi**, tenho 21 anos e sou **estudante de ciências da computação**. Com um bom conhecimento em **HTML**, **CSS**, **JS** e **Python** estou em busca aprender mais sobre o back-end. Estou empolgado para expandir minhas habilidades e explorar o universo da programação. 🚀
@@ -30,11 +30,11 @@ Olá! Me chamo **Vitor Lippi**, tenho 21 anos e sou **estudante de ciências da 
 
 ### 📈 Estatisticas 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=alecikawa&show_icons=true&count_private=true&hide_border=true&title_color=8037ff&icon_color=8037ff&text_color=c9d1d9&bg_color=0d1117" alt="Alec Ikawa github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alecikawa&layout=compact&hide_border=true&title_color=8037ff&text_color=8037ff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vilippi&show_icons=true&count_private=true&hide_border=true&title_color=8037ff&icon_color=8037ff&text_color=c9d1d9&bg_color=0d1117" alt="Vitor Lippi github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilippi&layout=compact&hide_border=true&title_color=8037ff&text_color=8037ff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alecikawa&bg_color=000000&color=8037ff&line=a674fe&point=8037ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vilippi&bg_color=000000&color=8037ff&line=a674fe&point=8037ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **vilippi/vilippi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
