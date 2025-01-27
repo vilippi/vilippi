@@ -25,7 +25,7 @@ Olá! Me chamo **Vitor Lippi**, tenho 21 anos e sou **estudante de ciências da 
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" alt="node" style="margin-right: 15px;">
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="margin-right: 15px;">
 </div>
 
