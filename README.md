@@ -1,20 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Vitor+Lippi;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
-### 👨‍💻 Sobre mim:
+## 👨‍💻 Sobre mim:
 🎓 **Estudante de Ciências da Computação**
+  
 Atualmente no 7º semestre, em constante busca por conhecimento e experiências que me ajudem a evoluir como profissional.
 
 💻 **Objetivo Profissional**
+
 Meu foco é me tornar um Desenvolvedor FullStack, com habilidades tanto no front-end quanto no back-end, criando soluções completas e inovadoras.
 
 🤖 **Interesses Atuais**
-Estudando intensamente sobre Inteligência Artificial e suas aplicações práticas.
+
+Estudando intensamente sobre Inteligência Artificial e suas aplicações práticas. <br>
 Explorando e aprofundando meus conhecimentos em desenvolvimento Back-end.
 
 💼 **Experiência Profissional**
+
 Atualmente trabalho na Softpark, onde aplico e desenvolvo minhas habilidades enquanto contribuo com projetos da empresa.
 
 🌟 **Motivação**
+
 Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de crescer e aprender algo novo. Vamos construir juntos? 🚀
 
 ---
@@ -43,7 +48,7 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 ### 📈 Estatisticas 
 <div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vilippi&theme=dracula" alt="Vitor Lippi github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilippi&layout=compact&theme=dracula" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilippi&layout=compact&theme=dracula" alt="Vitor Lippi github lang stats"/>
 </div>
 
 
