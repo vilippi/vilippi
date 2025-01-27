@@ -7,7 +7,7 @@ Olá! Me chamo **Vitor Lippi**, tenho 21 anos e sou **estudante de ciências da 
 
 ---
 
-### 📱 Vamos nós conectar! 
+### 📱 Vamos nos conectar! 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ikawa/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alecikawadealmeida/)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/alecikawa )
