@@ -47,8 +47,8 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 
 ### 📈 Estatisticas 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vilippi&theme=dracula" alt="Vitor Lippi github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilippi&layout=compact&theme=dracula" alt="Vitor Lippi github lang stats"/>
+  <img width="49%x" height="195px" src="https://github-readme-stats.vercel.app/api?username=vilippi&theme=dracula" alt="Vitor Lippi github stats"/> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilippi&layout=compact&theme=dracula" alt="Vitor Lippi github lang stats"/>
 </div>
 
 
