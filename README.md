@@ -16,7 +16,7 @@ Explorando e aprofundando meus conhecimentos em desenvolvimento Back-end.
 
 💼 **Experiência Profissional**
 
-Atualmente trabalho na Softpark, onde aplico e desenvolvo minhas habilidades enquanto contribuo com projetos da empresa.
+Atualmente trabalho na Softpark como estágiario de TI (faço um pouco de tudo), onde aplico e desenvolvo minhas habilidades enquanto contribuo com projetos da empresa.
 
 🌟 **Motivação**
 
