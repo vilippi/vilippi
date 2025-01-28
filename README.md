@@ -33,14 +33,14 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
 ### 🛠️ Tecnologias e Ferramentas:
 
 <div align="left">    
-  <a href="https://github.com/vilippi" title="Visite meu GitHub!"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="margin-right: 15px;"></a>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" style="margin-right: 15px;">
+  <a href="" title="HTML5"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" style="margin-right: 15px;"></a>
+  <a href="" title="CSS3"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" style="margin-right: 15px;"></a>
+  <a href="" title="Javascript"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" style="margin-right: 15px;"></a>
+  <a href="" title="React"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="margin-right: 15px;"></a>
+  <a href="" title="Python"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" style="margin-right: 15px;"></a>
+  <a href="" title="Node.js"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" style="margin-right: 15px;"></a>
+  <a href="" title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;"></a>
+  <a href="" title="Docker"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" style="margin-right: 15px;"></a>
 </div>
 
 ---
