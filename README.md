@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&Left=true&vLeft=true&width=1000&lines=Olá,+Meu+nome+é+Vitor+Lippi;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff79c6&size=35&Left=true&vLeft=true&width=1000&lines=Hello+world,+meu+nome+é+Vitor+Lippi;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim:
 🎓 **Estudante de Ciências da Computação**
