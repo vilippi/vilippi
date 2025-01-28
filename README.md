@@ -41,6 +41,7 @@ Apaixonado por tecnologia e inovação, estou sempre buscando maneiras de cresce
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="node" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" style="margin-right: 15px;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" style="margin-right: 15px;">
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario/seu-repositorio)
 </div>
 
 ---
